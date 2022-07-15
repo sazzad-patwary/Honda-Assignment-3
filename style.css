@@ -1,0 +1,31 @@
+  /* body style  */
+  .structure{
+    max-width: 100%;
+    overflow-x: hidden;
+
+    }
+.banner{
+    background-color:#264653;
+}
+
+/* Client review color  */
+
+.fa-star.star-color{
+color: #E77C40;
+}
+
+/* client review image  */
+
+.client-img{
+    height: 150px;
+    width: 150px;
+}
+
+/* featured bike image style  */
+
+.featured-bike img{
+    width: 288px;
+}
+.gray-scale{
+    filter: grayscale(100%);
+}
